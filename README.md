@@ -10,7 +10,7 @@ This project is a simple Hero Banner Landing Page built with ReactJS. It feature
 Customizable: You can easily modify the hero section’s content (e.g., title, subtitle, image, and button text).
 
 ## Demo
-<a href="https://vdharmendra.github.io/BIM-CALC-React-App/">View Project on browser</a>
+<a href="https://vdharmendra.github.io/Learning-AirPods-Max-Hero-Banner-Landing-Page-Reactjs-Project/">View Project on browser</a>
 
 - 
 ## 👨‍💻 Author
